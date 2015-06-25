@@ -24,3 +24,10 @@ This course will be covering the following topics:
 - Clustering graph data and network data
 - Constraint-based clustering and semi-supervised clustering
 - Application examples of cluster analysis
+
+### Instructor
+[Jiawei Han](http://hanj.cs.illinois.edu/)
+
+Abel Bliss Professor,
+[Department of Computer Science](https://cs.illinois.edu/),
+University of Illinois at Urbana-Champaign
