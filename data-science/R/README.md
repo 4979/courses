@@ -19,8 +19,7 @@ The course will cover the following material each week:
 - Week 4: Simulation, code profiling
 
 ### Instructors
-- Roger D. Peng, PhD
-Johns Hopkins University
+- [Roger D. Peng](http://www.biostat.jhsph.edu/~rpeng/), PhD - Johns Hopkins University
 
 - Jeff Leek, PhD
 Johns Hopkins University
