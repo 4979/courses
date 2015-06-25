@@ -21,6 +21,4 @@ The course will cover the following material each week:
 ### Instructors
 - [Roger D. Peng](http://www.biostat.jhsph.edu/~rpeng/), PhD - Johns Hopkins University
 - [Jeff Leek](http://www.biostat.jhsph.edu/~jleek/), PhD - Johns Hopkins University
-
-- Brian Caffo, PhD
-Johns Hopkins University
+- [Brian Caffo](http://www.bcaffo.com/), PhD - Johns Hopkins University
