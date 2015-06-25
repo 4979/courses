@@ -17,3 +17,13 @@ The course will cover the following material each week:
 - Week 2: Control structures, functions, scoping rules, dates and times
 - Week 3: Loop functions, debugging tools
 - Week 4: Simulation, code profiling
+
+### Instructors
+- Roger D. Peng, PhD
+Johns Hopkins University
+
+- Jeff Leek, PhD
+Johns Hopkins University
+
+- Brian Caffo, PhD
+Johns Hopkins University
